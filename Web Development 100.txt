@@ -1,0 +1,22 @@
+NYCDA
+
+5/13/14
+
+Zach & Sam -> teachers.  zach@nycda.com
+
+things to try:
+ - anchors
+ - classes
+ - IDs
+ - attributes
+ - spans
+
+
+
+5/15/14
+
+
+
+
+
+
